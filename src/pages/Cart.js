@@ -39,7 +39,7 @@ function Cart() {
           <span className="font-bold ml-2 text-black">${totalAmount.toFixed(2)}</span></p>
           <button className="text-lg w-full py-2.5 rounded-lg font-bold text-white bg-[#15803d]
           border-2 border-[#15803d] hover:bg-white hover:text-[#15803d] transition-all duration-300 ease-in">
-            Checkout Now
+            Buy Now
           </button>
     </div>
 
